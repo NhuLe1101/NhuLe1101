@@ -107,12 +107,12 @@
 <br>
 <p align="center">
   <a href="https://github.com/NhuLe1101">
-    <img align="center"  height="175px" src="![NhuLe1101's Stats](https://github-readme-stats.vercel.app/api?username=NhuLe1101&theme=dracula&show_icons=true&hide_border=true&count_private=true)"/>
+    <img align="center"  height="175px" src="https://github-readme-stats.vercel.app/api?username=NhuLe1101&theme=dracula&show_icons=true&hide_border=true&count_private=true"/>
   </a>
   <a href="https://github.com/NhuLe1101">
-    <img align="center" height="175px"  src="![NhuLe1101's Streak](https://github-readme-streak-stats.herokuapp.com/?user=NhuLe1101&theme=dracula&hide_border=true)" />
+    <img align="center" height="175px"  src="https://github-readme-streak-stats.herokuapp.com/?user=NhuLe1101&theme=dracula&hide_border=true" />
   </a>
 </p>
-  <p align="center"><img align="center" src="![NhuLe1101's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NhuLe1101&theme=dracula&show_icons=true&hide_border=true&layout=compact)" alt="Ratheshan03" /></p>
+  <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NhuLe1101&theme=dracula&show_icons=true&hide_border=true&layout=compact" alt="" /></p>
 </details>
 
